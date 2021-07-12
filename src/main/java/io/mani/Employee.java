@@ -10,6 +10,15 @@ public class Employee {
     @Id
     private int id;
     private String name;
+    private String family;
+
+    public String getFamily() {
+        return family;
+    }
+
+    public void setFamily(String family) {
+        this.family = family;
+    }
 
     public int getId() {
         return id;
