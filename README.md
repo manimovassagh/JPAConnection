@@ -1,2 +1,2 @@
 # JPAConnection
-Connection
+Learn JPA and Hibernate Connection
